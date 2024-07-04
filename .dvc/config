@@ -1,0 +1,4 @@
+[core]
+    remote = myremote
+['remote "myremote"']
+    url = D:\Studies\Master Program\Third semester\MLOps\Practical\C3\remote
